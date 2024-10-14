@@ -1,0 +1,22 @@
+{
+  "name": "atividade-modulo-24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.test.js",
+    "test:contractLoginConsumer": "mocha ./test/contract/loginConsumer.test.js",
+    "test:contractLoginProvider": "mocha ./test/contract/loginProvider.test.js"
+  },
+  "keywords": [],
+  "author": "Ramon Cajueiro",
+  "license": "ISC",
+  "description": "Atividade do Modulo 24",
+  "devDependencies": {
+    "mocha": "^10.7.3",
+    "pactum": "^3.7.1"
+  },
+  "dependencies": {
+    "pactum-flow-plugin": "^0.1.4",
+    "pactum-matchers": "^1.1.7"
+  }
+}
