@@ -1,5 +1,5 @@
 {
-  "name": "atividade-modulo-24",
+  "name": "atividade-modulo-26",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Ramon Cajueiro",
   "license": "ISC",
-  "description": "Atividade do Modulo 24",
+  "description": "Atividade do Modulo 26",
   "devDependencies": {
     "mocha": "^10.7.3",
     "pactum": "^3.7.1"
