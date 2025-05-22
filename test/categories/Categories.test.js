@@ -46,6 +46,6 @@ describe('Suíte de testes para Categorias:', () => {
             .withJson({
                 "authorization": token
             })
-            .expectStatus(200) //teste
+            .expectStatus(200)
     })
 })
